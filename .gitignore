@@ -1,0 +1,11 @@
+__pycache__
+checkpoints
+*.pt
+*.jpg
+imagenet
+*.zip
+runs
+models
+build
+managed_components
+*.lock
