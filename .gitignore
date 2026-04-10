@@ -9,3 +9,4 @@ models
 build
 managed_components
 *.lock
+.vscode
