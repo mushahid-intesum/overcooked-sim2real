@@ -381,6 +381,5 @@ def _save_checkpoint(final=False):
 
     print(f"  Checkpoint saved: {path}")
 
-
 if __name__ == "__main__":
     train()

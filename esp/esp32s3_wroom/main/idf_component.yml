@@ -1,0 +1,4 @@
+dependencies:
+  espressif/esp-dl: "^3.3.0"
+  espressif/esp32-camera: "^2.0.0"
+  idf: ">=5.3.0"

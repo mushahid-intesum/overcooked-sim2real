@@ -34,7 +34,7 @@ INPUT_SHAPES = [
 ]
 
 class CalibDataset(Dataset):
-    def __init__(self, layout='cramped_room', num_samples=1024, fov_radius=FOV_RADIUS, noise_enabled=True):
+    def __init__(self, layout='cramped_room', num_samples=1024, fov_radius=FOV_RADIUS):
         self.samples = []
 
         noise_cfg = NoiseCfg()

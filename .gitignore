@@ -5,8 +5,12 @@ checkpoints
 imagenet
 *.zip
 runs
-models
+*.onnx
+*.pt
+*.info
 build
 managed_components
 *.lock
 .vscode
+*.defaults
+*.old

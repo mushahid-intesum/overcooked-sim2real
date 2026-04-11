@@ -26,7 +26,6 @@ class EvalRenderer:
         self._ready = False
 
         try:
-
             mdp = OvercookedGridworld.from_layout_name(layout)
             self.env = OvercookedEnv.from_mdp(mdp, horizon=400)
             self.mdp = mdp
@@ -67,8 +66,6 @@ class EvalRenderer:
         return arr.transpose(1, 0, 2)                
 
     def _obs_from_state(self, agent_idx: int):
-        
-
         state   = self.env.state
         player  = state.players[agent_idx]
         x, y    = player.position   
@@ -156,7 +153,7 @@ class EvalRenderer:
                     action_idx = logits.argmax(dim=-1).item()
                     joint.append(Action.INDEX_TO_ACTION[action_idx])
 
-                _, reward, done, _ = self.env.step(tuple(joint))
+                _, reward, _, _ = self.env.step(tuple(joint))
                 ep_return += float(reward)
                 step      += 1
 
