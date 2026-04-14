@@ -13,7 +13,6 @@ def make_env(layout, fov_radius, noise_cfg):
 
     return PartialObsWrapper(base, fov_radius=fov_radius, noise_cfg=noise_cfg)
 
-
 class PartialObsWrapper:
     def __init__(self, env, fov_radius, noise_cfg):
         self.env = env

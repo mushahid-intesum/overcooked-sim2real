@@ -1,0 +1,1282 @@
+Executing action: flash
+Serial port /dev/ttyS9
+/dev/ttyS9 failed to connect: Could not open /dev/ttyS9, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS8
+/dev/ttyS8 failed to connect: Could not open /dev/ttyS8, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS7
+/dev/ttyS7 failed to connect: Could not open /dev/ttyS7, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS6
+/dev/ttyS6 failed to connect: Could not open /dev/ttyS6, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS5
+/dev/ttyS5 failed to connect: Could not open /dev/ttyS5, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS4
+/dev/ttyS4 failed to connect: Could not open /dev/ttyS4, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS31
+/dev/ttyS31 failed to connect: Could not open /dev/ttyS31, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS30
+/dev/ttyS30 failed to connect: Could not open /dev/ttyS30, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS3
+/dev/ttyS3 failed to connect: Could not open /dev/ttyS3, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS29
+/dev/ttyS29 failed to connect: Could not open /dev/ttyS29, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS28
+/dev/ttyS28 failed to connect: Could not open /dev/ttyS28, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS27
+/dev/ttyS27 failed to connect: Could not open /dev/ttyS27, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS26
+/dev/ttyS26 failed to connect: Could not open /dev/ttyS26, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS25
+/dev/ttyS25 failed to connect: Could not open /dev/ttyS25, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS24
+/dev/ttyS24 failed to connect: Could not open /dev/ttyS24, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS23
+/dev/ttyS23 failed to connect: Could not open /dev/ttyS23, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS22
+/dev/ttyS22 failed to connect: Could not open /dev/ttyS22, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS21
+/dev/ttyS21 failed to connect: Could not open /dev/ttyS21, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS20
+/dev/ttyS20 failed to connect: Could not open /dev/ttyS20, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS2
+/dev/ttyS2 failed to connect: Could not open /dev/ttyS2, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS19
+/dev/ttyS19 failed to connect: Could not open /dev/ttyS19, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS18
+/dev/ttyS18 failed to connect: Could not open /dev/ttyS18, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS17
+/dev/ttyS17 failed to connect: Could not open /dev/ttyS17, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS16
+/dev/ttyS16 failed to connect: Could not open /dev/ttyS16, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS15
+/dev/ttyS15 failed to connect: Could not open /dev/ttyS15, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS14
+/dev/ttyS14 failed to connect: Could not open /dev/ttyS14, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS13
+/dev/ttyS13 failed to connect: Could not open /dev/ttyS13, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS12
+/dev/ttyS12 failed to connect: Could not open /dev/ttyS12, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS11
+/dev/ttyS11 failed to connect: Could not open /dev/ttyS11, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS10
+/dev/ttyS10 failed to connect: Could not open /dev/ttyS10, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS1
+/dev/ttyS1 failed to connect: Could not open /dev/ttyS1, the port is busy or doesn't exist.
+(Could not configure port: (5, 'Input/output error'))
+
+Serial port /dev/ttyS0
+/dev/ttyS0 failed to connect: Could not open /dev/ttyS0, the port is busy or doesn't exist.
+([Errno 16] could not open port /dev/ttyS0: [Errno 16] Device or resource busy: '/dev/ttyS0')
+
+Serial port /dev/ttyACM0
+Connecting....
+Detecting chip type... ESP32-S3
+Running ninja in directory /mnt/Stuff/phd_projects/overcooked/esp/esp32s3_wroom/build
+Executing "ninja flash"...
+[1/5] cd /mnt/Stuff/phd_projects/overcooked/esp/esp32s3_wroom/build/esp-idf/esptool_py && /home/mushahid/.espressif/tools/python/v5.4.3/venv/bin/python /home/mushahid/.espressif/v5.4.3/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 partition --type app /mnt/Stuff/phd_projects/overcooked/esp/esp32s3_wroom/build/partition_table/partition-table.bin /mnt/Stuff/phd_projects/overcooked/esp/esp32s3_wroom/build/overcooked_actor.bin
+overcooked_actor.bin binary size 0x127c80 bytes. Smallest app partition is 0x600000 bytes. 0x4d8380 bytes (81%) free.
+[2/5] Performing build step for 'bootloader'
+[1/1] cd /mnt/Stuff/phd_projects/overcooked/esp/esp32s3_wroom/build/bootloader/esp-idf/esptool_py && /home/mushahid/.espressif/tools/python/v5.4.3/venv/bin/python /home/mushahid/.espressif/v5.4.3/esp-idf/components/partition_table/check_sizes.py --offset 0x8000 bootloader 0x0 /mnt/Stuff/phd_projects/overcooked/esp/esp32s3_wroom/build/bootloader/bootloader.bin
+Bootloader binary size 0x5130 bytes. 0x2ed0 bytes (37%) free.
+[3/5] No install step for 'bootloader'
+[4/5] Completed 'bootloader'
+[4/5] cd /home/mushahid/.espressif/v5.4.3/esp-idf/components/esptool_py && /home/mushahid/.espressif/tools/cmake/3.30.2/bin/cmake -D IDF_PATH=/home/mushahid/.espressif/v5.4.3/esp-idf -D "SERIAL_TOOL=/home/mushahid/.espressif/tools/python/v5.4.3/venv/bin/python;;/home/mushahid/.espressif/v5.4.3/esp-idf/components/esptool_py/esptool/esptool.py;--chip;esp32s3" -D "SERIAL_TOOL_ARGS=--before=default_reset;--after=hard_reset;write_flash;@flash_args" -D WORKING_DIRECTORY=/mnt/Stuff/phd_projects/overcooked/esp/esp32s3_wroom/build -P /home/mushahid/.espressif/v5.4.3/esp-idf/components/esptool_py/run_serial_tool.cmake
+esptool.py --chip esp32s3 -p /dev/ttyACM0 -b 460800 --before=default_reset --after=hard_reset write_flash --flash_mode dio --flash_freq 80m --flash_size 16MB 0x0 bootloader/bootloader.bin 0x10000 overcooked_actor.bin 0x8000 partition_table/partition-table.bin
+esptool.py v4.11.0
+Serial port /dev/ttyACM0
+Connecting...
+Chip is ESP32-S3 (QFN56) (revision v0.2)
+Features: WiFi, BLE, Embedded PSRAM 8MB (AP_3v3)
+Crystal is 40MHz
+MAC: 3c:84:27:c7:7f:74
+Uploading stub...
+Running stub...
+Stub running...
+Changing baud rate to 460800
+Changed.
+Configuring flash size...
+Flash will be erased from 0x00000000 to 0x00005fff...
+Flash will be erased from 0x00010000 to 0x00137fff...
+Flash will be erased from 0x00008000 to 0x00008fff...
+SHA digest in image updated
+Compressed 20784 bytes to 13198...
+Writing at 0x00000000... (100 %)
+Wrote 20784 bytes (13198 compressed) at 0x00000000 in 0.7 seconds (effective 249.0 kbit/s)...
+Hash of data verified.
+Compressed 1211520 bytes to 562378...
+Writing at 0x00010000... (2 %)
+Writing at 0x0001e1f5... (5 %)
+Writing at 0x0002595c... (8 %)
+Writing at 0x0002a341... (11 %)
+Writing at 0x0002e5bc... (14 %)
+Writing at 0x000327e2... (17 %)
+Writing at 0x00036b4b... (20 %)
+Writing at 0x0003af99... (22 %)
+Writing at 0x0003f382... (25 %)
+Writing at 0x00044817... (28 %)
+Writing at 0x0004d623... (31 %)
+Writing at 0x0005695f... (34 %)
+Writing at 0x0005cbdc... (37 %)
+Writing at 0x00062aea... (40 %)
+Writing at 0x0006919a... (42 %)
+Writing at 0x00070311... (45 %)
+Writing at 0x000785d4... (48 %)
+Writing at 0x0007f41c... (51 %)
+Writing at 0x000855a2... (54 %)
+Writing at 0x0008bf29... (57 %)
+Writing at 0x000933f3... (60 %)
+Writing at 0x00099876... (62 %)
+Writing at 0x000a15f7... (65 %)
+Writing at 0x000a9c5e... (68 %)
+Writing at 0x000b414e... (71 %)
+Writing at 0x000bbccd... (74 %)
+Writing at 0x000dda5a... (77 %)
+Writing at 0x000e3d90... (80 %)
+Writing at 0x000ead73... (82 %)
+Writing at 0x000f21c0... (85 %)
+Writing at 0x000f87b2... (88 %)
+Writing at 0x000fedcf... (91 %)
+Writing at 0x0011e315... (94 %)
+Writing at 0x0012f2f4... (97 %)
+Writing at 0x00135843... (100 %)
+Wrote 1211520 bytes (562378 compressed) at 0x00010000 in 13.0 seconds (effective 744.1 kbit/s)...
+Hash of data verified.
+Compressed 3072 bytes to 119...
+Writing at 0x00008000... (100 %)
+Wrote 3072 bytes (119 compressed) at 0x00008000 in 0.1 seconds (effective 411.4 kbit/s)...
+Hash of data verified.
+
+Leaving...
+Hard resetting via RTS pin...
+[0;33m--- esp-idf-monitor 1.9.0 on /dev/ttyACM0 115200[0m
+[0;33m--- Quit: Ctrl+] | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H[0m
+Executing action: monitor
+Running idf_monitor in directory /mnt/Stuff/phd_projects/overcooked/esp/esp32s3_wroom
+Executing "/home/mushahid/.espressif/tools/python/v5.4.3/venv/bin/python /home/mushahid/.espressif/v5.4.3/esp-idf/tools/idf_monitor.py -p /dev/ttyACM0 -b 115200 --toolchain-prefix xtensa-esp32s3-elf- --target esp32s3 --revision 0 /mnt/Stuff/phd_projects/overcooked/esp/esp32s3_wroom/build/overcooked_actor.elf -m '/home/mushahid/.espressif/tools/python/v5.4.3/venv/bin/python' '/home/mushahid/.espressif/v5.4.3/esp-idf/tools/idf.py'"...
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0x1 (POWERON),boot:0x9 (SPI_FAST_FLASH_BOOT)
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+ESP-ROM:esp32s3-20210327
+Build:Mar 27 2021
+rst:0xc (RTC_SW_CPU_RST),boot:0x9 (SPI_FAST_FLASH_BOOT)
+Saved PC:0x40375cb5
+[0m--- 0x40375cb5: [0;33mesp_restart_noos[0m[0m at [0;32m/home/mushahid/.espressif/v5.4.3/esp-idf/components/esp_system/port/soc/esp32s3/system_internal.c[0m[0m:[1;31m162[0m
+SPIWP:0xee
+mode:DIO, clock div:1
+load:0x3fce2820,len:0x1564
+load:0x403c8700,len:0x4
+load:0x403c8704,len:0xc80
+load:0x403cb700,len:0x2ee0
+entry 0x403c8914
+[0m
+Done
