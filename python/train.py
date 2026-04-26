@@ -14,14 +14,14 @@ from renderer import EvalRenderer
 import time
 
 layout = "cramped_room"
-fov_radius = 5
-num_envs = 8
+fov_radius = 7
+num_envs = 10
 total_steps = 10_000_000
-actor_lr = 3e-4
-critic_lr = 1e-4
+actor_lr = 2e-3
+critic_lr = 2e-3
 rollout_steps = 128
-hidden_dim = 128
-ent_coef =  0.02
+hidden_dim = 256
+ent_coef =  0.05
 reward_shaping_factor = 1.0
 save_dir = "checkpoints"
 eval_interval = 50
@@ -88,6 +88,7 @@ eval_renderer = EvalRenderer(
     actors = actors,
     dashboard = dashboard,
     device = device,
+    fov_radius = cfg.fov_radius,
 )
 
 os.makedirs(cfg.save_dir, exist_ok=True)
@@ -145,17 +146,6 @@ def train():
                     step_log_prob[agent] = log_prob.cpu()
                     hidden[agent] = new_hidden
 
-                global_grid_list, global_scalar_list = [], []
-
-                for env in envs:
-                    _global_grid, _global_scalar = env.get_global_state()
-
-                    global_grid_list.append(_global_grid)
-                    global_scalar_list.append(_global_scalar)
-
-                global_grid = torch.from_numpy(np.stack(global_grid_list)).float()
-                global_scalar = torch.from_numpy(np.stack(global_scalar_list)).float()
-
                 new_observation_list = []
                 step_rewards = np.zeros(cfg.num_envs)
                 step_shaped = np.zeros(cfg.num_envs)
@@ -166,7 +156,6 @@ def train():
                     observation, reward, done, info = env.step(action_dict)
 
                     sparse_reward = float(reward) * cfg.sparse_factor
-
                     shaped = 0.0
                     if isinstance(info, dict):
                         if "shaped_r_by_agent" in info:
@@ -177,18 +166,27 @@ def train():
 
                     step_rewards[i] = sparse_reward
                     step_shaped[i] = shaped
-                    step_dones[i]  = float(done)
+                    step_dones[i] = float(done)
                     episode_rewards[i] += sparse_reward + shaped
 
                     if done:
                         episode_returns.append(float(episode_rewards[i]))
                         episode_rewards[i] = 0.0
                         observation = env.reset()
-                            
                         for agent in agents:
                             hidden[agent][i].zero_()
 
                     new_observation_list.append(observation)
+
+                # NOW collect global state — reflects s_{T+1}
+                global_grid_list, global_scalar_list = [], []
+                for env in envs:
+                    _global_grid, _global_scalar = env.get_global_state()
+                    global_grid_list.append(_global_grid)
+                    global_scalar_list.append(_global_scalar)
+
+                global_grid = torch.from_numpy(np.stack(global_grid_list)).float()
+                global_scalar = torch.from_numpy(np.stack(global_scalar_list)).float()
 
                 observation_list = new_observation_list
 
@@ -330,7 +328,7 @@ def _ppo_update():
 
                 ratio = (log_prob_new - log_prob_old).exp()
                 surrogate1 = ratio * minibatch_advantage
-                surrogate2 = ratio.clamp(1 - cfg.clip_eps)
+                surrogate2 = ratio.clamp(1 - cfg.clip_eps, 1 + cfg.clip_eps)
 
                 pg = -torch.min(surrogate1, surrogate2).mean()
 

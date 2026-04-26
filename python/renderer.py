@@ -1,6 +1,7 @@
 import numpy as np
 import torch
-from utils import NUM_CHANNELS
+from torch.distributions import Categorical
+from utils import NUM_CHANNELS, build_cone_mask, rotate_crop_to_ego
 from overcooked_ai_py.mdp.overcooked_env import OvercookedEnv
 from overcooked_ai_py.mdp.overcooked_mdp import OvercookedGridworld
 from overcooked_ai_py.visualization.state_visualizer import StateVisualizer
@@ -9,6 +10,8 @@ import time
 
 import pygame
 
+_ORI_TO_DIR = {(0, -1): 0, (1, 0): 1, (0, 1): 2, (-1, 0): 3}
+
 class EvalRenderer:
     def __init__(
         self,
@@ -16,6 +19,7 @@ class EvalRenderer:
         actors,
         dashboard,
         device,
+        fov_radius = 7,
         tile_size = 80,
         fps_delay = 0.05,
     ):
@@ -23,6 +27,8 @@ class EvalRenderer:
         self.dashboard = dashboard
         self.device = device
         self.fps_delay = fps_delay
+        self.fov_radius = fov_radius
+        self.cone_mask = build_cone_mask(fov_radius)
         self._ready = False
 
         try:
@@ -68,8 +74,9 @@ class EvalRenderer:
     def _obs_from_state(self, agent_idx: int):
         state   = self.env.state
         player  = state.players[agent_idx]
-        x, y    = player.position   
-        pos     = (y, x)                   
+        x, y    = player.position
+        pos     = (y, x)
+        direction = _ORI_TO_DIR.get(tuple(player.orientation), 0)
 
         terrain = self.mdp.terrain_mtx
         H, W = len(terrain), len(terrain[0])
@@ -79,13 +86,13 @@ class EvalRenderer:
         for r, row in enumerate(terrain):
             for c, cell in enumerate(row):
                 if cell != ' ':
-                    full_grid[0, r, c] = 1.0 
+                    full_grid[0, r, c] = 1.0
                 else:
-                    full_grid[1, r, c] = 1.0  
+                    full_grid[1, r, c] = 1.0
 
         for i, p in enumerate(state.players):
             px, py = p.position
-            ch = 2 if i == agent_idx else 3  
+            ch = 2 if i == agent_idx else 3
             full_grid[ch, py, px] = 1.0
 
         _CH = {"onion": 4, "tomato": 5, "dish": 6, "soup": 7}
@@ -99,32 +106,31 @@ class EvalRenderer:
         for px, py in self.mdp.get_serving_locations():
             full_grid[9, py, px] = 1.0
 
-        R = 5
+        R = self.fov_radius
         D = 2 * R + 1
         pad = R
         padded = np.zeros((C, H + 2*pad, W + 2*pad), dtype=np.float32)
-        padded[0, :, :] = 1.0              
+        padded[0, :, :] = 1.0
         padded[:, pad:pad+H, pad:pad+W] = full_grid
         pr, pc = pos[0] + pad, pos[1] + pad
-        crop   = padded[:, pr-R:pr+R+1, pc-R:pc+R+1].copy()
+        crop = padded[:, pr-R:pr+R+1, pc-R:pc+R+1].copy()
+
+        crop = rotate_crop_to_ego(crop, direction)
+        crop = crop * self.cone_mask[np.newaxis, :, :]
 
         scalars = np.zeros(7, dtype=np.float32)
-        # held object
         obj = player.held_object
         if obj is not None:
             held_map = {"onion": 1, "tomato": 2, "dish": 3, "soup": 4}
             scalars[2 + held_map.get(obj.name, 0)] = 1.0
         else:
-            scalars[2] = 1.0  
+            scalars[2] = 1.0
 
         return {"grid": crop, "scalars": scalars}
 
     def run_episode(self):
         if not self._ready:
             return
-
-        for a in self.actors.values():
-            a.eval()
 
         self.env.reset()
         hiddens = {
@@ -150,7 +156,7 @@ class EvalRenderer:
                         logits, new_h = self.actors[agent_id](g, s, h)
                     hiddens[agent_id] = new_h
 
-                    action_idx = logits.argmax(dim=-1).item()
+                    action_idx = Categorical(logits=logits).sample().item()
                     joint.append(Action.INDEX_TO_ACTION[action_idx])
 
                 _, reward, _, _ = self.env.step(tuple(joint))
@@ -162,10 +168,6 @@ class EvalRenderer:
 
         except Exception as exc:
             print(f"[EvalRenderer] episode error: {exc}")
-
-        finally:
-            for a in self.actors.values():
-                a.train()
 
         try:
             frame = self._state_to_frame(self.env.state)

@@ -46,11 +46,13 @@ class MobileNetEncoder(nn.Module):
             DepthWiseSeparableConvBlock(self.scale_channel(128), self.scale_channel(128), 1),
             DepthWiseSeparableConvBlock(self.scale_channel(128), self.scale_channel(256), 2),   
             DepthWiseSeparableConvBlock(self.scale_channel(256), self.scale_channel(256), 1),
+            DepthWiseSeparableConvBlock(self.scale_channel(256), self.scale_channel(512), 1),
+            DepthWiseSeparableConvBlock(self.scale_channel(512), self.scale_channel(512), 1),
         )
 
         self.pool = nn.AdaptiveAvgPool2d(1)
 
-        self.proj = nn.Linear(self.scale_channel(256), embed_dim)
+        self.proj = nn.Linear(self.scale_channel(512), embed_dim)
 
     def forward(self, x):
         x = self.conv1(x)
@@ -174,6 +176,4 @@ class Critic(nn.Module):
         fusion_enc = self.fusion_linear1(enc_cat)
         fusion_enc = self.fusion_relu(fusion_enc)
 
-        out = self.out(fusion_enc)
-
-        return self.fusion_relu(out).squeeze(-1)
+        return self.out(fusion_enc).squeeze(-1)

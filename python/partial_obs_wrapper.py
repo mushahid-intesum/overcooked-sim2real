@@ -112,10 +112,12 @@ class PartialObsWrapper:
             dtype=np.int32,
         )
 
+        _ORI_TO_DIR = {(0, -1): 0, (1, 0): 1, (0, 1): 2, (-1, 0): 3}
         agent_pos, agent_dir = {}, {}
         for i, player in enumerate(raw_state.players):
-            x, y = player.position   
-            agent_pos[f"player_{i}"] = (y, x) 
+            x, y = player.position
+            agent_pos[f"player_{i}"] = (y, x)
+            agent_dir[f"player_{i}"] = _ORI_TO_DIR.get(tuple(player.orientation), 0)
 
         objects = []
         for (x, y), obj in raw_state.objects.items():
